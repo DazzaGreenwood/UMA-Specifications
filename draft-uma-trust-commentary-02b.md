@@ -84,13 +84,16 @@ February 02, 2014
 
 #  Acknowledgments 
 
-# References  . . . . . . . . . . . . . . . . . . . . . . . . .  16  
-     ## Normative References  . . . . . . . . . . . . . . . . . .  16  
-     ## Informative References  . . . . . . . . . . . . . . . . .  17  
+# References 
 
-# Appendix A.  Document History . . . . . . . . . . . . . . . . . .  17  
+     ## Normative References 
+     
+     ## Informative References 
+     
 
-# Authors' Addresses  . . . . . . . . . . . . . . . . . . . . . . .  17  
+# Appendix A.  Document History 
+
+# Authors' Addresses   
    
 ##   D. Greenwood, JD  
    CIVICS.com  
