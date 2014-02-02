@@ -16,7 +16,7 @@ February 02, 2014
 
 
 # Binding Obligations on User-Managed Access (UMA) Participants  
-# draft-maler-oauth-umatrust-02b**  
+# draft-maler-oauth-umatrust-02b
 
 
 ## Abstract
