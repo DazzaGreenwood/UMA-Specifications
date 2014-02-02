@@ -31,53 +31,54 @@ February 02, 2014
 
 #  Legal Roles and Relationships
 
-#  Legal Rights and Responsibilities 
+#  Legal Enforceable Rights and Responsibilities
 
-## ## UMA Binding Obligations of the Parties
+## Intended Legal Rights and Responsibilities 
 
-### UMA Binding Obligations of Obligations of the Requesting Party 
-       2.2.1.  Requesting Party-Authorizing Party: Adhere-to-Terms .  10  
-       2.2.2.  Requesting Party-Authorizing Party: Make-Factual-
-               Representations . . . . . . . . . . . . . . . . . . .  11  
-       2.2.3.  Requesting Party-Authorization Server Operator:
-               Supply-Truthful-Claims  . . . . . . . . . . . . . . .  11  
-       2.2.4.  Requesting Party-Resource Server Operator: Is-
-               Legitimate-Bearer . . . . . . . . . . . . . . . . . .  12 
-                
-### UMA Binding Obligations of the Resource Server Operator . . . . . . .  12  
-       2.3.1.  Resource Server Operator-Authorizing Party: Delegate-
-               Protection  . . . . . . . . . . . . . . . . . . . . .  12  
-       2.3.2.  Resource Server Operator-Authorization Server
-               Operator: Register-Accurately-and-Timely  . . . . . .  12  
-       2.3.3.  Resource Server Operator-Authorization Server
-               Operator: Respect-Permissions . . . . . . . . . . . .  13  
-       2.3.4.  Resource Server Operator-Requesting Party: Give-
-               Accurate-Access . . . . . . . . . . . . . . . . . . .  13  
+### Legal Rights and Responsibilities Arising from Parties Using UMA
 
-### UMA Binding Obligations of the Authorization Server Operator  . . . .  14  
-       2.4.1.  Authorization Server Operator-Authorizing Party:
-               Follow-Policies-Accurately-and-Timely . . . . . . . .  14  
-       2.4.2.  Authorization Server Operator-Resource Server
-               Operator: Follow-Policies-Accurately-and-Timely . . .  14  
-       2.4.3.  Authorization Server Operator-Requesting Party:
-               Request-Limited-Claims  . . . . . . . . . . . . . . .  15  
+### Expected Applicability and Enforceability of Rights and Responsibilities
 
-### UMA Binding Obligations of the Authorizing Party  . . . . . . . . . .  15  
-       2.5.1.  Authorizing Party-Requesting Party: Adhere-to-Terms .  15  
-       2.5.2.  Authorizing Party-Authorization Server Operator:
-               Introduce-Resource-Server . . . . . . . . . . . . . .  15  
-       2.5.3.  Authorizing Party-Resource Server Operator:
-               Introduce-Authorization-Server  . . . . . . . . . . .  16
+#  Legal Rights and Responsibilities of the Requesting Party 
 
-## Legal Binding Obligations of the Parties
+## UMA Binding Obligations of Obligations of the Requesting Party 
 
-### Requesting Party 
-                
-### Resource Server Operator
+### Requesting Party-Authorizing Party: Adhere-to-Terms
 
-### Authorization Server Operator 
+### Requesting Party-Authorizing Party: Make-Factual-Representations
 
-### Authorizing Party  . . . . . . . . . .  15  
+### Requesting Party-Authorization Server Operator: Supply-Truthful-Claims
+               
+### Requesting Party-Resource Server Operator: Is-Legitimate-Bearer
+
+#  Legal Rights and Responsibilities  of the Resource Server Operator
+               
+## UMA Binding Obligations of the Resource Server Operator
+
+### Resource Server Operator-Authorizing Party: Delegate-Protection 
+               
+### Resource Server Operator-Authorization Server Operator: Register-Accurately-and-Timely
+               
+### Resource Server Operator-Authorization Server Operator: Respect-Permissions
+               
+### Resource Server Operator-Requesting Party: Give-Accurate-Access
+
+## UMA Binding Obligations of the Authorization Server Operator
+
+### Authorization Server Operator-Authorizing Party: Follow-Policies-Accurately-and-Timely
+               
+### Authorization Server Operator-Resource Server Operator: Follow-Policies-Accurately-and-Timely
+               
+### Authorization Server Operator-Requesting Party: Request-Limited-Claims
+               
+## UMA Binding Obligations of the Authorizing Party
+
+### Authorizing Party-Requesting Party: Adhere-to-Terms
+
+### Authorizing Party-Authorization Server Operator: Introduce-Resource-Server
+               
+### Authorizing Party-Resource Server Operator: Introduce-Authorization-Server
+
 
 #  Legal Glossary and Definitions
 
